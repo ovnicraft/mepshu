@@ -1,18 +1,18 @@
-===============================
-Mailgun Requests
-===============================
+==========================
+Mailgun Para Seres Humanos
+==========================
 
-.. image:: https://img.shields.io/travis/ovnicraft/mailgun-requests.svg
-        :target: https://travis-ci.org/ovnicraft/mailgun-requests
+.. image:: https://img.shields.io/travis/ovnicraft/mepshu.svg
+        :target: https://travis-ci.org/ovnicraft/mepshu
 
-.. image:: https://img.shields.io/pypi/v/mailgun-requests.svg
-        :target: https://pypi.python.org/pypi/mailgun-requests
+.. image:: https://img.shields.io/pypi/v/mepshu.svg
+        :target: https://pypi.python.org/pypi/mepshu
 
 
-Mailgun rfor  Humans
+Mailgun Para Seres Humanos
 
 * Free software: BSD license
-* Documentation: https://mailgun-requests.readthedocs.org.
+* Documentation: https://mepshu.readthedocs.org.
 
 Features
 --------
